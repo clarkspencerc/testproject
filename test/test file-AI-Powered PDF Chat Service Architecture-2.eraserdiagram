@@ -15,7 +15,7 @@ AWS Services [icon: aws] {
     Chat Session Handler [icon: aws-lambda]
   }
   Vector Database [icon: aws-neptune]
-  Text Storage [icon: aws-s3]
+  Text Storage [icon: aws]
 }
 
 OpenAI Services [icon: gcp] {
