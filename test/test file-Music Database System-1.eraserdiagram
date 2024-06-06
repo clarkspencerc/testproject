@@ -11,6 +11,9 @@ albums [icon: album, color: blue]{
 artists [icon: user, color: green]{
   ArtistId int pk
   Name string
+  Phone int
+  Address  string
+  Fav_color string
 }
 
 genres [icon: tag, color: purple]{
