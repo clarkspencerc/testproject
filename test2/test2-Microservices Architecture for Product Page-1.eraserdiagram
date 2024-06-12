@@ -1,0 +1,49 @@
+cloud-architecture-diagram
+
+// Title and nodes
+title Microservices Architecture for Product Page
+
+Product Page [icon: monitor]
+
+API Gateway [icon: aws-api-gateway]
+
+Item Service [color: blue, icon: tool] {
+  Item API [icon: aws-ec2, label: "API"] // entry point
+  Item DB [icon: aws-rds, label: "DB"]
+}
+
+Reviews Service [color: green, icon: message-circle] {
+  Reviews API [icon: aws-ec2, label: "API"] // entry point
+  Reviews DB [icon: aws-rds, label: "DB"]
+  Reviews AI [icon: aws-sagemaker, label: "AI"]
+}
+
+Recommendations Service [color: orange, icon: thumbs-up] {
+  Recommendations API [icon: aws-ec2, label: "API"] // entry point
+  Recommendations DB [icon: aws-rds, label: "DB"]
+  Recommendations AI [icon: aws-sagemaker, label: "AI"]
+}
+
+Auth Service [color: red, icon: lock] {
+  Auth API [icon: aws-ec2, label: "API"] // entry point
+  Auth DB [icon: aws-rds, label: "DB"]
+}
+
+Search Service [color: purple, icon: search] {
+  Search API [icon: aws-ec2, label: "API"] // entry point
+  Search DB [icon: aws-rds, label: "DB"]
+  Search AI [icon: aws-sagemaker, label: "AI"]
+}
+
+// Connections
+Product Page > API Gateway
+API Gateway > Item API
+API Gateway > Reviews API
+API Gateway > Recommendations API
+API Gateway > Auth API
+API Gateway > Search API
+Reviews API > Item API
+Recommendations API > Item API
+Recommendations API > Search API
+Search API > Item API
+
