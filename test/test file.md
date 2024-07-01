@@ -1,7 +1,6 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/5dEz50e4WefNpST7rfxx" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
-## Pulled from github 
-this change was made in github. Let's see if it reflects in Eraser. testing again
 
+## Pulled from github this change was made in github. Let's see if it reflects in Eraser. testing again 
 ### Introduction
 - Purpose of the document
 - Overview of the Fleet Management Software
@@ -53,9 +52,7 @@ this change was made in github. Let's see if it reflects in Eraser. testing agai
 ### Real-time Data Processing
 - Technologies and methods for real-time data handling
 - Data validation and processing workflows
-
-
-![Figure 1](/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---figure---fR9wMfbxrHc4-V7AdnHeq---figure---POJWc-AfQV-FBXMPolrvNw.png "Figure 1")
+![Figure 1](/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---figure---BDoEW83WOO4MydgpAH3ak---figure---POJWc-AfQV-FBXMPolrvNw.png "Figure 1")
 
 
 
@@ -64,11 +61,23 @@ this change was made in github. Let's see if it reflects in Eraser. testing agai
 
 
 
+
+| `﻿inline code test `  |  |  |
+| ----- | ----- | ----- |
+|  |  |  |
+| `code block test `  |  |  |
+### A test header 
+
+
+some more text to test out. 
+
+
+
+
 <!-- eraser-additional-content -->
 ## Diagrams
 <!-- eraser-additional-files -->
-<a href="/test/test file-Music Database System-1.eraserdiagram" data-element-id="MZp6YBnj86LQVfWPniy2m"><img src="/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---diagram----fdd874eca9a95731238b3a7c9b43ae51-Music-Database-System.png" alt="" data-element-id="MZp6YBnj86LQVfWPniy2m" /></a>
-<a href="/test/test file-AI-Powered PDF Chat Service Architecture-2.eraserdiagram" data-element-id="XzumnDWj5DD0khlfzHlit"><img src="/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---diagram----c84f4ee5ee152c3aad9324446da4b28a-AI-Powered-PDF-Chat-Service-Architecture.png" alt="" data-element-id="XzumnDWj5DD0khlfzHlit" /></a>
+<a href="/test/test file-Music Database System-1.eraserdiagram" data-element-id="MZp6YBnj86LQVfWPniy2m"><img src="/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---diagram----4a08e54d3a360479b40de8fc6c0e2098-Music-Database-System.png" alt="" data-element-id="MZp6YBnj86LQVfWPniy2m" /></a>
 <!-- end-eraser-additional-files -->
 <!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/5dEz50e4WefNpST7rfxx --->
