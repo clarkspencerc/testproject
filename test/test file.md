@@ -62,7 +62,7 @@
 
 
 
-| `﻿inline code test `  |  |  |
+| `﻿inline code test `  | hello  | adding via github |
 | ----- | ----- | ----- |
 |  |  |  |
 | `code block test `  |  |  |
