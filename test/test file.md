@@ -1,6 +1,6 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/5dEz50e4WefNpST7rfxx" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
-## Pulled from github this change was made in github. Let's see if it reflects in Eraser. testing again 
+## Pulled from github this change was made in github. Let's see if it reflects in Eraser. testing again
 ### Introduction
 - Purpose of the document
 - Overview of the Fleet Management Software
@@ -52,26 +52,15 @@
 ### Real-time Data Processing
 - Technologies and methods for real-time data handling
 - Data validation and processing workflows
-![Figure 1](/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___---figure---BDoEW83WOO4MydgpAH3ak---figure---POJWc-AfQV-FBXMPolrvNw.png "Figure 1")
-
-
 
 ![image.png](/.eraser/5dEz50e4WefNpST7rfxx___KLsHjkV4v8N66qoTkgtZV0vg9Ew1___T_0NcHNvofTFbAoR78hlm.png "image.png")
 
-
-
-
-
-| `﻿inline code test `  | hello  | adding via github |
+|  | hello | adding via github |
 | ----- | ----- | ----- |
 |  |  |  |
-| `code block test `  |  |  |
-### A test header 
-
-
+|  |  |  |
+### A test header
 some more text to test out. 
-
-
 
 
 <!-- eraser-additional-content -->
